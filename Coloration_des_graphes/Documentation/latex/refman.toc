@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Class Index}{1}
+\contentsline {section}{\numberline {1.1}Class List}{1}
+\contentsline {chapter}{\numberline {2}File Index}{3}
+\contentsline {section}{\numberline {2.1}File List}{3}
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}
+\contentsline {section}{\numberline {3.1}color\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}writer$<$ Palette, Color $>$ Class Template Reference}{5}
+\contentsline {subsection}{\numberline {3.1.1}Detailed Description}{5}
+\contentsline {subsection}{\numberline {3.1.2}Constructor \& Destructor Documentation}{5}
+\contentsline {subsubsection}{\numberline {3.1.2.1}color\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}writer(\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Palette palette, Color \&color)}{5}
+\contentsline {subsection}{\numberline {3.1.3}Member Function Documentation}{5}
+\contentsline {subsubsection}{\numberline {3.1.3.1}operator()(std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::ostream \&out, const Vertex\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Or\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Edge \&v) const }{5}
+\contentsline {chapter}{\numberline {4}File Documentation}{7}
+\contentsline {section}{\numberline {4.1}coloration.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}cpp File Reference}{7}
+\contentsline {chapter}{Index}{9}
